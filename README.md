@@ -48,7 +48,7 @@ The deconvolution script produces:
 - Visual plots showing individual fitted peaks, combined spectra, and residuals to assess the fit quality.
 - Export of fitted parameters in CSV format for further analysis.
 
----
+
 ### 3. DNA Sensor Data Analysis for specific Analytes
 
 This repository contains Python code for analyzing DNA sensor data related to glucose detection. It includes scripts for calculating means, standard deviations, peak shifts, and intensity changes across various DNA samples and channels. The results are visualized as bar plots, and the processed data is exported as Excel files. The code is designed for analyzing time-series data from DNA sensor experiments, focusing on glucose concentration measurements.
