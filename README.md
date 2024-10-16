@@ -26,7 +26,7 @@ Key features of this repository include:
 ## Key Project Highlights
 
 ### 1. Photoluminescence (PL) Spectrum Analysis
-The PL data was captured using a custom-built optical setup:
+The PL data was captured using a custom-built optical N-IR microscope setup.
 - **Excitation wavelengths**: 660 nm for the (7,5) and (7,6) chiralities, and 730 nm for the (10,2), (9,4), (8,6), and (8,7) chiralities.
 - **Emission range**: 900 to 1400 nm, captured using an IsoPlane SCT-320 spectrometer with a NIRvana 640 ST InGaAs camera.
 
