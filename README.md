@@ -19,7 +19,6 @@ Key features of this repository include:
 - **NumPy & Pandas**: For handling data matrices and manipulating CSV files.
 - **Matplotlib**: For generating plots of PL intensity, individual peaks, and fitted spectra.
 - **SciPy**: Used for nonlinear least-squares optimization in the Lorentzian peak deconvolution process.
-- **Jupyter Notebooks**: For interactive data analysis and visualization.
 
 ---
 
